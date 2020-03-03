@@ -47,6 +47,7 @@ Database model:-
        property: {
             taskId:  {
                 type: String
+                default: uuid
             },
             taskName: {
                 type: String
