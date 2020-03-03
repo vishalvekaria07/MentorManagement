@@ -22,6 +22,11 @@ npm start
 ```
 this will start the user interface on `port 3000`
 
+Use below credentials to login 
+Username :- admin
+Password :- admin
+
+
 Database model:-
 
 ```
